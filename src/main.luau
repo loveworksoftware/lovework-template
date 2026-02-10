@@ -1,6 +1,11 @@
 local lovework = require("@lovework/lovework")
+local example = require("@utils/example")
 
-function love.load() end
+function love.load()
+	lovework.systems.add("update", "exampleSystem", require("@systems/exampleSystem"))
+
+	example.helloWorld("print")
+end
 
 function love.update(dt)
 	-- This will run every frame
