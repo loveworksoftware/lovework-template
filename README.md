@@ -1,4 +1,9 @@
 # This project was made using Kaledis and Lovework.
+
+```zsh
+git clone https://github.com/loveworksoftware/lovework-template.git
+```
+
 ## Requirements:
 - Kaledis (>=2.0.4)
 - Pesde (>=0.7.1)
