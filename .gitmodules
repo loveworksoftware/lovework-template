@@ -1,0 +1,3 @@
+[submodule "submodules/lovework"]
+	path = submodules/lovework
+	url = https://github.com/loveworksoftware/lovework.git

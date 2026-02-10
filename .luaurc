@@ -1,0 +1,11 @@
+{
+	"aliases": {
+		"packages": "luau_packages",
+		"classes": "src/classes",
+		"data": "src/data",
+		"utils": "src/utils",
+		"config": "src/config",
+		"systems": "src/systems",
+		"lovework": "submodules/lovework"
+	}
+}

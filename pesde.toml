@@ -1,0 +1,13 @@
+name = "kaledis/lovework"
+version = "0.1.0"
+license = "MIT"
+
+[target]
+environment = "luau"
+
+[indices]
+default = "https://github.com/pesde-pkg/index"
+
+[dependencies]
+maid = { name = "ewdev/maid", version = "^0.1.0" }
+signal = { name = "ewdev/signal", version = "^0.1.0" }
